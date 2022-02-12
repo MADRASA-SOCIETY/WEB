@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: inherit;
+    background-image: linear-gradient(to right, #8d3737 , #d6b865);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    background-color: #4a8b4c;
+    color: whitesmoke;
+    width: 100%;
+}
+header h1{
+    text-shadow: 0 0 3px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
+}
+#line{
+    border-bottom: 2px black solid;
+}
+footer h3 a{
+    background-color: whitesmoke;
+    border: black 2px groove;
+    border-radius: 5%;
+    width: 80%;
+    height: 10px;
+    justify-content: center;
+}
